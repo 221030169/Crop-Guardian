@@ -256,7 +256,7 @@ if uploaded_file:
             # Display suggestions with a lighter background and proper formatting
             st.markdown(
                 f"""
-                <div style='color:#000; background-color:#e6ffe6; padding:15px; border-radius:8px;'>
+                <div style='color:#000; backstreaststreamlitground-color:#e6ffe6; padding:15px; border-radius:8px;'>
                     {tips}
                 </div>
                 """,
